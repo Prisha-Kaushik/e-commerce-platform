@@ -407,6 +407,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@Prisha-Kaushik](https://github.com/Prisha-Kaushik)
 - Project Link: [https://github.com/Prisha-Kaushik/e-commerce-platform](https://github.com/Prisha-Kaushik/e-commerce-platform)
+- Loom Video Demo: https://www.loom.com/share/8fef155a89d14aa0912aaf43a1d689b7
+  
 
 ## 🙏 Acknowledgments
 
