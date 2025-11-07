@@ -1,4 +1,4 @@
-<img width="2940" height="1584" alt="image" src="https://github.com/user-attachments/assets/fe8ade10-c2be-4b8f-8350-47c7fcdde411" /># 🛍️ E-Commerce Platform
+# 🛍️ E-Commerce Platform
 
 A modern, full-stack e-commerce shopping cart application built with React and Node.js. This project demonstrates a complete e-commerce flow with product browsing, cart management, and checkout functionality.
 
