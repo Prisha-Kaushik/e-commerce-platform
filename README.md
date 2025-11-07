@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Platform
+<img width="2940" height="1584" alt="image" src="https://github.com/user-attachments/assets/fe8ade10-c2be-4b8f-8350-47c7fcdde411" /># 🛍️ E-Commerce Platform
 
 A modern, full-stack e-commerce shopping cart application built with React and Node.js. This project demonstrates a complete e-commerce flow with product browsing, cart management, and checkout functionality.
 
@@ -275,11 +275,11 @@ CREATE TABLE orders (
 ```
 
 ## 📸 Screenshots
-
 ### Product Grid
 - Responsive grid layout displaying all available products
 - Each product card shows image, name, description, and price
 - "Add to Cart" button for each product
+<img width="2940" height="1584" alt="image" src="https://github.com/user-attachments/assets/781c1188-db3d-4bf0-a5ea-5c0a6b5aa5f8" />
 
 ### Shopping Cart
 - Real-time cart updates
@@ -287,12 +287,14 @@ CREATE TABLE orders (
 - Remove item functionality
 - Automatic total calculation
 - Sticky cart summary on desktop
+<img width="2940" height="934" alt="image" src="https://github.com/user-attachments/assets/b7697969-b578-4f1f-bdbe-ae7134117506" />
 
 ### Checkout Modal
 - Order summary preview
 - Customer information form (name, email)
 - Form validation
 - Cancel and submit options
+<img width="2940" height="1591" alt="image" src="https://github.com/user-attachments/assets/0049eda5-05ff-465e-94d6-ec7f4954c65e" />
 
 ### Receipt Modal
 - Order confirmation with success indicator
@@ -300,6 +302,7 @@ CREATE TABLE orders (
 - Customer information display
 - Itemized purchase list
 - Total amount highlighted
+<img width="2940" height="1586" alt="image" src="https://github.com/user-attachments/assets/7b641f2e-1a02-4cbf-9818-e21043725efe" />
 
 ## 🚢 Deployment
 
